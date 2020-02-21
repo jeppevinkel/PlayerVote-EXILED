@@ -477,6 +477,10 @@ namespace PlayerVote
 		{
 			if (CurrentVote != null)
 			{
+				if (!player.CheckPermission("playervote.vote"))
+				{
+					return "You don't have the required permission to vote.";
+				}
 				if (!CurrentVote.Votes.Contains(player.characterClassManager.UserId))
 				{
 					if (CurrentVote.Options.ContainsKey(option))
