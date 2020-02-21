@@ -1,0 +1,17 @@
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\PlayerVote.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\PlayerVote.pdb
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\0Harmony.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\Assembly-CSharp_publicized.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\EXILED.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\EXILED_Events.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\EXILED_Idler.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\EXILED_Permissions.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\Mirror.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\UnityEngine.CoreModule.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\UnityEngine.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\bin\Debug\YamlDotNet.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\obj\Debug\PlayerVote.csprojAssemblyReference.cache
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\obj\Debug\PlayerVote.csproj.CopyComplete
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\obj\Debug\PlayerVote.dll
+D:\jeppe\Documents\Visual Studio Projects\PlayerVote-EXILED\PlayerVote\obj\Debug\PlayerVote.pdb
