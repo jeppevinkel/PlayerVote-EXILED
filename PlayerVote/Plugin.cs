@@ -32,7 +32,7 @@ namespace PlayerVote
 
 		public override void OnEnable()
 		{
-			enabled = Config.GetBool("playervote_enable", false);
+			enabled = Config.GetBool("playervote_enable", true);
 			if (!enabled)
 			{
 				return;
